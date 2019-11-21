@@ -1,4 +1,4 @@
-package br.com.fiap.arquitetura.prova.modelo;
+package edu.fiap.tcd.modelo;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -59,6 +59,6 @@ public class Genero {
 	}
 	public void setFilme(Filme filme) {
 		this.filme = filme;
-	}
-
+	}	
+	
 }
