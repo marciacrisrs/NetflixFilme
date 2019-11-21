@@ -1,4 +1,4 @@
-package br.com.fiap.arquitetura.prova.modelo;
+package edu.fiap.tcd.modelo;
 
 import java.util.List;
 
@@ -83,6 +83,11 @@ public class Filme {
 			return false;
 		return true;
 	}
+	
+	
+	
+	
+	
 	
 
 }
