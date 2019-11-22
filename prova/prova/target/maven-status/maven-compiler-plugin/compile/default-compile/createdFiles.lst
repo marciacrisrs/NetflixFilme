@@ -1,0 +1,12 @@
+edu\fiap\tcd\services\FilmeService.class
+edu\fiap\tcd\controller\dto\FilmeDTO.class
+edu\fiap\tcd\modelo\Filme.class
+edu\fiap\tcd\ProvaApplication.class
+edu\fiap\tcd\repository\FilmeRepository.class
+edu\fiap\tcd\modelo\Descricao.class
+edu\fiap\tcd\modelo\Palavra_Chave.class
+edu\fiap\tcd\controller\FilmeController.class
+edu\fiap\tcd\modelo\Detalhes.class
+edu\fiap\tcd\modelo\Ator.class
+edu\fiap\tcd\modelo\Genero.class
+edu\fiap\tcd\configuracao\ServicosConfig.class
